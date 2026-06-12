@@ -1,0 +1,12 @@
+# Minecraft runtime files
+crash-reports/
+logs/
+saves/
+screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local dev overrides
+local.properties
