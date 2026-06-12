@@ -1,0 +1,11 @@
+name = "Axiom Odyssey: New Epoch"
+author = "AxiomOdyssey"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[versions]
+minecraft = "1.7.10"
+forge = "10.13.4.1614"
+
+[options]
+acceptable-game-versions = ["1.7.10"]
