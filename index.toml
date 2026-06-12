@@ -1,3 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "."
+
+[[files]]
+file = "mods/industrialcraft2.pw.toml"
+hash = "12eb4f1c3e71fa5c80645dffb366a2b25db20dd01d34892f2991b49fdf62946b"
+metafile = true
