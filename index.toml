@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "9fb0370845230010306576f5963d80899c2b46514bcb9b7ec4eed8ecc7924394"
+metafile = true
+
+[[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "44cb4bd4fe325219135ae0c9d59b878dbafb78d97289478a725f95b25d9eae5e"
 metafile = true
 
 [[files]]
