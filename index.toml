@@ -26,6 +26,11 @@ hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
 metafile = true
 
 [[files]]
+file = "mods/codechickenlib.pw.toml"
+hash = "d74b08e24d0bb254932174fe3634782625d8cb4b1095a44ee4fd118a58c42dad"
+metafile = true
+
+[[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
 metafile = true
