@@ -1,0 +1,8 @@
+name = "lwjgl3ify"
+filename = "lwjgl3ify-3.0.25.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.25/lwjgl3ify-3.0.25.jar"
+hash-format = "sha256"
+hash = "cb4cd2d1ac7cc6cf5a2336bdf241d9b2907a50496bf17f1f522fd1842c5b7f33"

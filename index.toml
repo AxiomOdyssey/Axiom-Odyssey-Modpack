@@ -36,13 +36,23 @@ hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
 metafile = true
 
 [[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "8046f23688d408dfd9ea91a13a98fe1bfd4313bb334a098f1055c212bbf59c44"
+metafile = true
+
+[[files]]
 file = "mods/notenoughitems.pw.toml"
-hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
+hash = "a7d384c79e448cc915efbe653c84f04c128e9a4d5219c0c0f942ec5353acf9a5"
 metafile = true
 
 [[files]]
 file = "mods/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "mods/unimixins-all.pw.toml"
+hash = "adfce3a59b18d5023bc79ad55dbdc64114b59d5afc409b6249c3f9aea6a6e90b"
+metafile = true
 
 [[files]]
 file = "mods/unofficial-gs.pw.toml"

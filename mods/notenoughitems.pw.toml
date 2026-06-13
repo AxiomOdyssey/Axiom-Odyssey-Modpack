@@ -1,13 +1,8 @@
-name = "NotEnoughItems"
-filename = "NotEnoughItems-1.7.10-1.0.5.120-universal.jar"
+name = "NotEnoughItems-AO"
+filename = "NotEnoughItems-1.0.6.0-ao.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2302312
-project-id = 222211
+url = "https://github.com/AxiomOdyssey/NotEnoughItems/releases/download/v1.0.6.0-ao/NotEnoughItems-1.0.6.0-ao.jar"
+hash-format = "sha256"
+hash = "f01c84717c8a10da81e16fba24a5cdb8e6f90b85115c48e1148e5aeff87bc00d"
