@@ -1,10 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/industrialcraft2.pw.toml"
-hash = "12eb4f1c3e71fa5c80645dffb366a2b25db20dd01d34892f2991b49fdf62946b"
+file = "mods/gravitation-suite-neo.pw.toml"
+hash = "e4a1c17aab4793ad2616834a0b2a06342b9a2c2d06993c1c7d54f4cf55f8268e"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
 metafile = true
 
 [[files]]
 file = "mods/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "mods/unofficial-gs.pw.toml"
+hash = "baf26d673096411627002a867ce356c7e273b9f70fd1fd3c8c3ab70a81d56d46"
+metafile = true

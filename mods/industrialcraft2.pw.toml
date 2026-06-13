@@ -1,8 +1,0 @@
-name = "IndustrialCraft2"
-filename = "industrialcraft-2-2.2.827-experimental.jar"
-side = "both"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/2353/971/industrialcraft-2-2.2.827-experimental.jar"
-hash-format = "sha256"
-hash = "2c7a4d5ea98f286c84b591c0f4efad564b1dd74a7779d043475794884a3d1ca8"
