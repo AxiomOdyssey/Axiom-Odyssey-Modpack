@@ -21,13 +21,8 @@ file = "config/forgeChunkLoading.cfg"
 hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
 
 [[files]]
-file = "mods/codechickencore.pw.toml"
-hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
-metafile = true
-
-[[files]]
-file = "mods/codechickenlib.pw.toml"
-hash = "d74b08e24d0bb254932174fe3634782625d8cb4b1095a44ee4fd118a58c42dad"
+file = "mods/ao-lib.pw.toml"
+hash = "6663f4d86d6528c1f76dc33dee69877f2b660ff303875e721deae56d4ea56fef"
 metafile = true
 
 [[files]]
@@ -41,18 +36,8 @@ hash = "8046f23688d408dfd9ea91a13a98fe1bfd4313bb334a098f1055c212bbf59c44"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.pw.toml"
-hash = "330ef2b60c6d40a343aad1ec909331abfccd6edb744c29e7b08304ab34f8129c"
-metafile = true
-
-[[files]]
 file = "mods/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "mods/unimixins-all.pw.toml"
-hash = "adfce3a59b18d5023bc79ad55dbdc64114b59d5afc409b6249c3f9aea6a6e90b"
-metafile = true
 
 [[files]]
 file = "mods/unofficial-gs.pw.toml"

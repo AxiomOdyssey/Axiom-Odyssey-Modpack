@@ -1,8 +1,0 @@
-name = "NotEnoughItems"
-filename = "NotEnoughItems-1.0.6.3-ao.jar"
-side = "both"
-
-[download]
-url = "https://github.com/AxiomOdyssey/NotEnoughItems/releases/download/v1.0.6.3-ao/NotEnoughItems-1.0.6.3-ao.jar"
-hash-format = "sha256"
-hash = "930dfab1bcb0439fa22a480c9938f935dab96f259c949fedf4e222b6f2bd2643"

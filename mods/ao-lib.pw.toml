@@ -1,0 +1,8 @@
+name = "AO-Lib"
+filename = "+ao-lib-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AxiomOdyssey/AO-Lib/releases/download/v1.0.1/%2Bao-lib-1.0.1.jar"
+hash-format = "sha256"
+hash = "5b4cd0e66603baba1c370be125b3553459518dde7df367e8ca43b3efbba9fed2"
