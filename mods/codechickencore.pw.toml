@@ -1,8 +1,13 @@
 name = "CodeChickenCore"
-filename = "CodeChickenCore-1.4.15.jar"
+filename = "CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.15/CodeChickenCore-1.4.15.jar"
-hash-format = "sha256"
-hash = "7276782f902288209998c686551bcde0828d1d5e45f3ee2a7bd9f2682797e2da"
+hash-format = "sha1"
+hash = "42340568aa6c7d6a9333e30540d4a9803d262f5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3293859
+project-id = 222213
