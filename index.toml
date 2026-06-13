@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems.pw.toml"
-hash = "33c97512a5cb423d24a3eb455a220207bb00fb54282533d9a4a299fc0e7dd17e"
+hash = "828816fb39d9e3a674ea895c7b2ac0fe6b3eb270d30313b3a7bb622139249325"
 metafile = true
 
 [[files]]
