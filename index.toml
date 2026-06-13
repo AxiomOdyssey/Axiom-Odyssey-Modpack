@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/gravitation-suite-neo.pw.toml"
-hash = "e4a1c17aab4793ad2616834a0b2a06342b9a2c2d06993c1c7d54f4cf55f8268e"
-metafile = true
-
-[[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
 metafile = true
