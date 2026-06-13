@@ -1,9 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
-file = "."
-
-[[files]]
 file = "mods/industrialcraft2.pw.toml"
 hash = "12eb4f1c3e71fa5c80645dffb366a2b25db20dd01d34892f2991b49fdf62946b"
 metafile = true
+
+[[files]]
+file = "mods/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

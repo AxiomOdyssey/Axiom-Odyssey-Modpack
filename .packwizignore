@@ -1,0 +1,8 @@
+README.md
+icon.png
+icon.svg
+*.zip
+prism-instance/
+config/.gitkeep
+scripts/.gitkeep
+resourcepacks/.gitkeep
