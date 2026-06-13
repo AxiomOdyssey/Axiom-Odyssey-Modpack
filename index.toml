@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/codechickencore-unofficial.pw.toml"
-hash = "9fb0370845230010306576f5963d80899c2b46514bcb9b7ec4eed8ecc7924394"
+file = "config/CodeChickenCore.cfg"
+hash = "ef31ec25c4a92a465120159145cebd732e7f462a0dd0930b171bce69ab8d413f"
+
+[[files]]
+file = "config/GraviSuite.cfg"
+hash = "b8f6a4dd88715bc06955f657334f02726e8fbe641e3feaf03b50aac1ca9e8990"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "91d72e00e952817767106220e75b68ad2e27d156bac958f0190b8c2b0b2bee9b"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
 metafile = true
 
 [[files]]
@@ -11,8 +31,8 @@ hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "44cb4bd4fe325219135ae0c9d59b878dbafb78d97289478a725f95b25d9eae5e"
+file = "mods/notenoughitems.pw.toml"
+hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
 metafile = true
 
 [[files]]
