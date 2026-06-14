@@ -22,7 +22,7 @@ hash = "7f4f70b4bbc8d0c73abe4f2926b47bf71c9746554bd1ef2d15c68b5d82206610"
 
 [[files]]
 file = "mods/ao-coremod.pw.toml"
-hash = "26a3d2920de673e30250696a5a9c38e60f53898aebc23dbe8c35d5575b6c3593"
+hash = "e8a6f3908d91ccdbcbf44d429c5eaf8e8269f1625a4e9872cf0b98800d51ca9b"
 metafile = true
 
 [[files]]
