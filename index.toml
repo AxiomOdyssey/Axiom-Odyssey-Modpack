@@ -36,11 +36,6 @@ hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
 metafile = true
 
 [[files]]
-file = "mods/lwjgl3ify.pw.toml"
-hash = "8046f23688d408dfd9ea91a13a98fe1bfd4313bb334a098f1055c212bbf59c44"
-metafile = true
-
-[[files]]
 file = "mods/packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
