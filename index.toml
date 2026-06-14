@@ -2,23 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CodeChickenCore.cfg"
-hash = "ef31ec25c4a92a465120159145cebd732e7f462a0dd0930b171bce69ab8d413f"
+hash = "20c9511f0dc931fd9b7b3c4e997b240e93e55d5c84c34dec5ad75e0dadd06144"
 
 [[files]]
 file = "config/GraviSuite.cfg"
-hash = "b8f6a4dd88715bc06955f657334f02726e8fbe641e3feaf03b50aac1ca9e8990"
+hash = "58d0a3233cad55f01761dcf95a6ec577ee0596e65e707b182da037c0076abb86"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "91d72e00e952817767106220e75b68ad2e27d156bac958f0190b8c2b0b2bee9b"
+hash = "8399f9865691bbbe1d63533fceb2434972f2aed994e136480b21f542afd4f041"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+hash = "f657188d1664c88d2e1dc22fde844d577aad29f92f717094aeb1b6fcbbe552eb"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
-hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
+hash = "7f4f70b4bbc8d0c73abe4f2926b47bf71c9746554bd1ef2d15c68b5d82206610"
 
 [[files]]
 file = "mods/ao-coremod.pw.toml"

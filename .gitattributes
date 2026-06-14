@@ -1,0 +1,9 @@
+# Все текстовые файлы хранить и отдавать с LF (не CRLF)
+# Это предотвращает расхождение packwiz-хешей на Windows
+
+* text=auto eol=lf
+
+# Бинарные файлы — без конвертации
+*.jar binary
+*.zip binary
+*.png binary
