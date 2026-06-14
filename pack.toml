@@ -1,12 +1,12 @@
 name = "Axiom Odyssey: New Epoch"
 author = "AxiomOdyssey"
-version = "0.2.6"
+version = "0.2.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6771ef2210680291a88aeaaf5e6a8c43631d993f9c41a92395794c3de9665dae"
+hash = "d84a50c9ab01ad7945a80e3da93fae9aba7bc92f6a0b4a48c4059b988f39d118"
 
 [versions]
 forge = "10.13.4.1614"
