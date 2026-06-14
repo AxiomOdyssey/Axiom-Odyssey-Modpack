@@ -21,6 +21,11 @@ file = "config/forgeChunkLoading.cfg"
 hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
 
 [[files]]
+file = "mods/ao-coremod.pw.toml"
+hash = "6dd4de1c3e90fa5c095be4ee0446f3301756d617e223f8a873a476869fce8962"
+metafile = true
+
+[[files]]
 file = "mods/ao-lib.pw.toml"
 hash = "6663f4d86d6528c1f76dc33dee69877f2b660ff303875e721deae56d4ea56fef"
 metafile = true
