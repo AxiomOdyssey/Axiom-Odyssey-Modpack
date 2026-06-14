@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/AxiomOdyssey/AO-CoreMod/releases/download/v0.2.5/AO-CoreMod-0.2.5.jar"
 hash-format = "sha256"
-hash = "4fb6eeaae9963b915900577d5cecde0d176f76173cba43626631f7ec92d4101a"
+hash = "6cee29343178b5600841c5bea2763d096c128c6cae7a2dd4b7dff613d213af70"
