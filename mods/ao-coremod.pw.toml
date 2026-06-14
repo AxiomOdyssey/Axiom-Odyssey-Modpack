@@ -1,8 +1,8 @@
 name = "AO-CoreMod"
-filename = "AO-CoreMod-0.2.5.jar"
+filename = "AO-CoreMod-0.2.6.jar"
 side = "both"
 
 [download]
-url = "https://github.com/AxiomOdyssey/AO-CoreMod/releases/download/v0.2.5/AO-CoreMod-0.2.5.jar"
+url = "https://github.com/AxiomOdyssey/AO-CoreMod/releases/download/v0.2.6/AO-CoreMod-0.2.6.jar"
 hash-format = "sha256"
-hash = "6ec3557dab30a609055f3ba6c752f97e3b1460d6f832664ee729f47145943f37"
+hash = "5668c6eb26dfd3acff5787da5a979b62438f66f2b1a28e3d50f13f7661233b3a"
